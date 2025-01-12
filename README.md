@@ -5,7 +5,8 @@
 # 💫 About Me:
 I'm an aspiring developer and creative designer passionate about crafting intuitive apps and solving complex problems.  
 With experience in **Python**, **MySQL**, **Flutter**, and **Figma**, I enjoy blending technology and creativity to build impactful solutions.  
-<br>Whether it's designing sleek user interfaces or coding functional backends, I'm always eager to learn and grow in the tech space.  
+<br>Whether it's designing sleek user interfaces or coding functional backends, I'm always eager to learn and grow in the tech space.
+<br>Contact: **sarangipanamana@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=Sarangi1708&color=447ff7&label=Visitor+count)
 
@@ -13,6 +14,13 @@ With experience in **Python**, **MySQL**, **Flutter**, and **Figma**, I enjoy bl
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarangisajith/)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
